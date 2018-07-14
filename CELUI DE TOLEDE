@@ -1,0 +1,8 @@
+<p>I am using c-shell and I am used to using setenv. I need to execute an equivalent command from within a python script. I tried using os.environ['JAVA_HOME'] = "/usr/local/java" which works from the python interpreter, but when my script is executed from the command line, the shell it ran in does reflect the newly set environment variable. Can anybody help, I am new to scripting, I hope I made my question clear.</p>    </div>
+    <div class="post-taglist">
+        <a href="/questions/tagged/java" class="post-tag" 
+        title="show questions tagged &#39;java&#39;" rel="tag">java</a> <a href="/questions/tagged/python" 
+        class="post-tag" title="show questions tagged &#39;python&#39;" rel="tag">python</a> 
+        <a href="/questions/tagged/environment-variables" class="post-tag" title="show questions
+        tagged &#39;environment-variables&#39;" rel="tag">environment-variables</a> <a href="/questions/tagged/csh"
+        class="post-tag" title="show questions tagged &#39;csh&#39;" rel="tag">csh</a> 
